@@ -1,0 +1,25 @@
+{
+  "name": "55PegNet Default",
+  "timestamp": "2022-11-21T14:04:21.015Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/Gchainvalidators/tokengsys/master/logo_gsys.png",
+  "keywords": [
+    "gsys"
+  ],
+  "tokens": [
+    {
+        "name": "Wrapped GSYS",
+        "address": "0xAa7aE83eb30DDdd14A017D4222121776317EA8Ba",
+        "symbol": "WGSYS",
+        "decimals": 18,
+        "chainId": 16507,
+        "logoURI": "https://raw.githubusercontent.com/Gchainvalidators/tokengsys/master/logo_gsys.png"
+    }
+    
+  ]
+}
