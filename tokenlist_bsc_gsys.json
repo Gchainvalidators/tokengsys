@@ -9,7 +9,8 @@
   "tags": {},
   "logoURI": "https://trustwallet.com/assets/images/favicon.png",
   "keywords": [
-    "usdt"
+    "usdt",
+    "usdc"
   ],
   "tokens": [
     {
@@ -19,6 +20,14 @@
         "decimals": 18,
         "chainId": 56,
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+    },
+    {
+        "name": "USDC",
+        "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+        "symbol": "USDC",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
     }
   ]
 }
